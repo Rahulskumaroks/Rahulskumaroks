@@ -10,7 +10,8 @@
 - 🤝 Strong believer in **team collaboration & clean architecture**
 - 💬 Ask me about **JavaScript, React, React Native, APIs**
 - 📫 Reach me at **rahulskumar343@gmail.com**
-- 📝 My experience & work 👉 **[Resume](rahul-portfolio-5iep.onrender.com/)**
+- 📝 📝 My experience & work 👉 **[Portfolio](https://rahul-portfolio-5iep.onrender.com/)**
+
 
 > 👨‍💻 **Team note:** I’m building this product along with my teammate **Rakesh**, where we collaborate on architecture, features, and scaling.
 
